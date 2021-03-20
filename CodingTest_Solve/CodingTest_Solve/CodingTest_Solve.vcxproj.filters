@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\07. DFS">
+      <UniqueIdentifier>{bd6c139e-9492-45ee-8d9d-c4ba192a91e0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\01. 그리디">
+      <UniqueIdentifier>{bbb13795-fdec-404c-acf8-34fb485e8b31}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\02. 정렬">
+      <UniqueIdentifier>{d7ce4cfb-9cad-4447-a895-5965a6c36414}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\10. 넥슨 NYPC">
+      <UniqueIdentifier>{7f732c2c-aa68-4107-8725-7c2183c36f0a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Class 2">
+      <UniqueIdentifier>{36ac410a-755d-4b97-b920-643fdb0944ac}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="2606_바이러스.cpp">
+      <Filter>소스 파일\07. DFS</Filter>
+    </ClCompile>
+    <ClCompile Include="2644_촌수계산.cpp">
+      <Filter>소스 파일\07. DFS</Filter>
+    </ClCompile>
+    <ClCompile Include="7569_토마토.cpp">
+      <Filter>소스 파일\07. DFS</Filter>
+    </ClCompile>
+    <ClCompile Include="1018_체스판 다시 칠하기.cpp">
+      <Filter>소스 파일\Class 2</Filter>
+    </ClCompile>
+    <ClCompile Include="1085_직사각형에서 탈출.cpp">
+      <Filter>소스 파일\Class 2</Filter>
+    </ClCompile>
+    <ClCompile Include="1181_단어 정렬.cpp">
+      <Filter>소스 파일\Class 2</Filter>
+    </ClCompile>
+    <ClCompile Include="1259_펠린드롬 수.cpp">
+      <Filter>소스 파일\Class 2</Filter>
+    </ClCompile>
+    <ClCompile Include="1436_영화감독.cpp">
+      <Filter>소스 파일\Class 2</Filter>
+    </ClCompile>
+    <ClCompile Include="1654_랜선 자르기.cpp">
+      <Filter>소스 파일\Class 2</Filter>
+    </ClCompile>
+    <ClCompile Include="1874_스택 수열.cpp">
+      <Filter>소스 파일\Class 2</Filter>
+    </ClCompile>
+    <ClCompile Include="2017_스테이지1_캠프파이어.cpp">
+      <Filter>소스 파일\10. 넥슨 NYPC</Filter>
+    </ClCompile>
+    <ClCompile Include="2017_스테이지1_파리의 이동 거리.cpp">
+      <Filter>소스 파일\10. 넥슨 NYPC</Filter>
+    </ClCompile>
+    <ClCompile Include="11279_최대 힙.cpp">
+      <Filter>소스 파일\02. 정렬</Filter>
+    </ClCompile>
+    <ClCompile Include="11497_통나무 건너뛰기.cpp">
+      <Filter>소스 파일\01. 그리디</Filter>
+    </ClCompile>
+    <ClCompile Include="16435_스네이크 버드.cpp">
+      <Filter>소스 파일\01. 그리디</Filter>
+    </ClCompile>
+    <ClCompile Include="17509_And the Winner.cpp">
+      <Filter>소스 파일\01. 그리디</Filter>
+    </ClCompile>
+    <ClCompile Include="20921_그렇고 그런 사이.cpp">
+      <Filter>소스 파일\01. 그리디</Filter>
+    </ClCompile>
+    <ClCompile Include="기본.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
