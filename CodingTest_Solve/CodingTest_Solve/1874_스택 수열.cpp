@@ -25,6 +25,7 @@ int main()
 		{
 			while (iFindNum + 1 != cnt)
 			{
+				cout << "push : " << cnt << endl;
 				s.push(cnt);
 				cnt++;
 				res += "+\n";
@@ -40,7 +41,6 @@ int main()
 				cout << "pop : " << s.top() << endl;
 				s.pop();
 				res += "-\n";
-				cnt++;
 			}
 			else
 			{
@@ -50,7 +50,6 @@ int main()
 		}
 	}
 
-	cout << s.top() << endl;
 	cout << res << endl;
 	return 0;
 }

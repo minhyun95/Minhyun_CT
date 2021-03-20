@@ -28,6 +28,9 @@
     <Filter Include="소스 파일\Class 2">
       <UniqueIdentifier>{36ac410a-755d-4b97-b920-643fdb0944ac}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\91. 스택">
+      <UniqueIdentifier>{6a317d0b-7c81-48a5-bd5c-6ca740371c7c}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="2606_바이러스.cpp">
@@ -83,6 +86,12 @@
     </ClCompile>
     <ClCompile Include="기본.cpp">
       <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="10828_스택.cpp">
+      <Filter>소스 파일\91. 스택</Filter>
+    </ClCompile>
+    <ClCompile Include="10989_수 정렬하기 3.cpp">
+      <Filter>소스 파일\02. 정렬</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
