@@ -93,5 +93,17 @@
     <ClCompile Include="10989_수 정렬하기 3.cpp">
       <Filter>소스 파일\02. 정렬</Filter>
     </ClCompile>
+    <ClCompile Include="1920_수 찾기.cpp">
+      <Filter>소스 파일\Class 2</Filter>
+    </ClCompile>
+    <ClCompile Include="2019_연습문제_비밀번호 검사.cpp">
+      <Filter>소스 파일\10. 넥슨 NYPC</Filter>
+    </ClCompile>
+    <ClCompile Include="2019_예선_최대HP.cpp">
+      <Filter>소스 파일\10. 넥슨 NYPC</Filter>
+    </ClCompile>
+    <ClCompile Include="1166_선물.cpp">
+      <Filter>소스 파일\02. 정렬</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
