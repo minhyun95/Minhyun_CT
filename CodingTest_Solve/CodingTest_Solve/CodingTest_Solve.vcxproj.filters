@@ -31,6 +31,12 @@
     <Filter Include="소스 파일\91. 스택">
       <UniqueIdentifier>{6a317d0b-7c81-48a5-bd5c-6ca740371c7c}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\09. dp">
+      <UniqueIdentifier>{6e7cbabf-b143-4ae5-a7c5-f787e23c88cb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Programmers Level 2">
+      <UniqueIdentifier>{6b4f126a-f7a8-4971-aebf-5f74fb2317db}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="2606_바이러스.cpp">
@@ -104,6 +110,36 @@
     </ClCompile>
     <ClCompile Include="1166_선물.cpp">
       <Filter>소스 파일\02. 정렬</Filter>
+    </ClCompile>
+    <ClCompile Include="1929_소수 구하기.cpp">
+      <Filter>소스 파일\09. dp</Filter>
+    </ClCompile>
+    <ClCompile Include="2 x n 타일링.cpp">
+      <Filter>소스 파일\Programmers Level 2</Filter>
+    </ClCompile>
+    <ClCompile Include="1107_리모컨.cpp">
+      <Filter>소스 파일\Class 2</Filter>
+    </ClCompile>
+    <ClCompile Include="1978_소수 찾기.cpp">
+      <Filter>소스 파일\Class 2</Filter>
+    </ClCompile>
+    <ClCompile Include="10250_ACM호텔.cpp">
+      <Filter>소스 파일\Class 2</Filter>
+    </ClCompile>
+    <ClCompile Include="2869_달팽이는 올라가고 싶다.cpp">
+      <Filter>소스 파일\Class 2</Filter>
+    </ClCompile>
+    <ClCompile Include="10845_큐.cpp">
+      <Filter>소스 파일\Class 2</Filter>
+    </ClCompile>
+    <ClCompile Include="11866_요세푸스 0.cpp">
+      <Filter>소스 파일\Class 2</Filter>
+    </ClCompile>
+    <ClCompile Include="4153_직각삼각형.cpp">
+      <Filter>소스 파일\Class 2</Filter>
+    </ClCompile>
+    <ClCompile Include="%28포기%29N으로 표현.cpp">
+      <Filter>소스 파일\Programmers Level 2</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
