@@ -141,5 +141,8 @@
     <ClCompile Include="%28포기%29N으로 표현.cpp">
       <Filter>소스 파일\Programmers Level 2</Filter>
     </ClCompile>
+    <ClCompile Include="Pro_Level3_정수 삼각형.cpp">
+      <Filter>소스 파일\09. dp</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
